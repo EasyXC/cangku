@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.1",
-  "versionCode": 2,
+  "versionName": "1.0.3",
+  "versionCode": 4,
   "isForceUpdate": false,
   "updateContent": [
     "新增：接口列表支持下拉刷新与离线缓存兜底",
