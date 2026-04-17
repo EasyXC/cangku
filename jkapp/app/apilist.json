@@ -595,6 +595,12 @@
 	},
 	{
 		"id": 100,
+		"name": "测试，无资源",
+		"url": "https://play.test.org/test.json",
+		"tag": "线路"
+	},
+	{
+		"id": 101,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
 		"tag": "线路"
