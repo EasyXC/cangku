@@ -192,7 +192,7 @@
 	},
 	{
 		"id": 33,
-		"name": "hgyx.vip",
+		"name": "hg菠菜源",
 		"url": "https://api.hgyx.vip/hgyx.json",
 		"tag": "线路"
 	},
@@ -306,8 +306,8 @@
 	},
 	{
 		"id": 52,
-		"name": "猫霉",
-		"url": "https://tv.猫霉.top/svip",
+		"name": "初心",
+		"url": "https://gitee.com/lufeisuolong/918/raw/master/fm.json",
 		"tag": "线路"
 	},
 	{
@@ -384,8 +384,8 @@
 	},
 	{
 		"id": 65,
-		"name": "刺桐娱乐",
-		"url": "https://www.cttv.vip/ys/json/ctys.json",
+		"name": "荷城",
+		"url": "https://gh-proxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
 		"tag": "线路"
 	},
 	{
@@ -587,7 +587,6 @@
 		"url": "http://xhztv.top/4k.json",
 		"tag": "线路"
 	},
-
 	{
 		"id": 99,
 		"name": "天天开心",
@@ -598,18 +597,6 @@
 		"id": 100,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
-		"tag": "线路"
-	},
-	{
-		"id": 101,
-		"name": "荷城",
-		"url": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-		"tag": "线路"
-	},
-	{
-		"id": 102,
-		"name": "初心",
-		"url": "https://gitee.com/lufeisuolong/918/raw/master/fm.json",
 		"tag": "线路"
 	}
 ]
