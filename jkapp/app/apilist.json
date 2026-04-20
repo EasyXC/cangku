@@ -601,6 +601,12 @@
 	},
 	{
 		"id": 101,
+		"name": "幸福客家",
+		"url": "http://154.36.173.40/tgyg/bbm.json",
+		"tag": "线路"
+	},
+	{
+		"id": 102,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
 		"tag": "线路"
