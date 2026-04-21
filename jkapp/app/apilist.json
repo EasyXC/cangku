@@ -607,6 +607,12 @@
 	},
 	{
 		"id": 102,
+		"name": "网络收集2",
+		"url": "https://2938.kstore.space/json/ziyong.json",
+		"tag": "线路"
+	},
+	{
+		"id": 103,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
 		"tag": "线路"
