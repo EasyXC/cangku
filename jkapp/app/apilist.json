@@ -150,8 +150,8 @@
 	},
 	{
 		"id": 26,
-		"name": "pandown",
-		"url": "http://pandown.pro/tvbox/tvbox.json",
+		"name": "幸福客家",
+		"url": "http://154.36.173.40/tgyg/bbm.json",
 		"tag": "线路"
 	},
 	{
@@ -408,9 +408,9 @@
 	},
 	{
 		"id": 69,
-		"name": "网络收集有18+",
+		"name": "网络收集1有18+",
 		"url": "https://d.kstore.dev/download/17135/%E8%87%AA%E7%94%A8.json",
-		"tag": "稳定"
+		"tag": "线路"
 	},
 	{
 		"id": 70,
@@ -599,20 +599,15 @@
 		"url": "https://play.test.org/test.json",
 		"tag": "线路"
 	},
+
 	{
 		"id": 101,
-		"name": "幸福客家",
-		"url": "http://154.36.173.40/tgyg/bbm.json",
-		"tag": "线路"
-	},
-	{
-		"id": 102,
 		"name": "网络收集2",
 		"url": "https://2938.kstore.space/json/ziyong.json",
 		"tag": "线路"
 	},
 	{
-		"id": 103,
+		"id": 102,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
 		"tag": "线路"
