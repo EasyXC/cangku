@@ -23,12 +23,6 @@
 		"tag": "稳定"
 	},
 	{
-		"id": 5,
-		"name": "不良帅",
-		"url": "https://gh-proxy.com/https://raw.githubusercontent.com/bzr-zd/blr/main/不良帅.png",
-		"tag": "线路"
-	},
-	{
 		"id": 6,
 		"name": "哈基米",
 		"url": "https://17264.kstore.space/哈基米1.png",
@@ -38,12 +32,6 @@
 		"id": 7,
 		"name": "王二小放牛娃",
 		"url": "http://tvbox.王二小放牛娃.top",
-		"tag": "稳定"
-	},
-	{
-		"id": 8,
-		"name": "OK杰克",
-		"url": "http://ok213.top/tv",
 		"tag": "稳定"
 	},
 	{
@@ -92,12 +80,6 @@
 		"id": 16,
 		"name": "香雅情",
 		"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-		"tag": "线路"
-	},
-	{
-		"id": 17,
-		"name": "潇洒",
-		"url": "https://9877.kstore.space/AnotherD/api.json",
 		"tag": "线路"
 	},
 	{
@@ -594,25 +576,25 @@
 		"tag": "高清"
 	},
 	{
-		"id": 100,
+		"id": 5,
 		"name": "测试，无资源",
 		"url": "https://play.test.org/test.json",
 		"tag": "线路"
 	},
 	{
-		"id": 101,
+		"id": 8,
 		"name": "小虎斑",
 		"url": "http://hb.小虎斑.site:25252/仅供测试",
 		"tag": "线路"
 	},
 	{
-		"id": 102,
+		"id": 17,
 		"name": "网络收集2",
 		"url": "https://2938.kstore.space/json/ziyong.json",
 		"tag": "线路"
 	},
 	{
-		"id": 103,
+		"id": 100,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
 		"tag": "线路"
