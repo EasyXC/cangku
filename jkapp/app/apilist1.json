@@ -22,10 +22,17 @@
 		"url": "http://www.饭太硬.net/tv",
 		"tag": "稳定"
 	},
+
+	{
+		"id": 5,
+		"name": "总有刁民想害朕",
+		"url": "https://wp.kayyw.com/f/MllRc6/%E6%80%BB%E6%9C%89%E5%88%81%E6%B0%91%E6%83%B3%E5%AE%B3%E6%9C%95.json",
+		"tag": "线路"
+	},
 	{
 		"id": 6,
 		"name": "哈基米",
-		"url": "https://17264.kstore.space/哈基米1.png",
+		"url": "https://17264.kstore.space/哈基米.png",
 		"tag": "线路"
 	},
 	{
@@ -33,6 +40,12 @@
 		"name": "王二小放牛娃",
 		"url": "http://tvbox.王二小放牛娃.top",
 		"tag": "稳定"
+	},
+	{
+		"id": 8,
+		"name": "小虎斑",
+		"url": "http://hb.小虎斑.site:25252/仅供测试",
+		"tag": "线路"
 	},
 	{
 		"id": 9,
@@ -90,8 +103,8 @@
 	},
 	{
 		"id": 19,
-		"name": "软件小哥哥",
-		"url": "http://47.96.82.41:5188/svip/svip.json",
+		"name": "玩偶",
+		"url": "https://gitee.com/blssss/jk/raw/api/bls.json",
 		"tag": "线路"
 	},
 	{
@@ -108,8 +121,8 @@
 	},
 	{
 		"id": 22,
-		"name": "喵影视",
-		"url": "https://www.iyouhun.com/tv/mys",
+		"name": "TYY",
+		"url": "http://825826.xyz:666/tvbox/TYY2/SS.txt",
 		"tag": "线路"
 	},
 	{
@@ -150,9 +163,9 @@
 	},
 	{
 		"id": 29,
-		"name": "niaoshu公益_4Km",
-		"url": "https://nsvip.060028.xyz/niaoshu公益/4Km.json",
-		"tag": "线路"
+		"name": "天天开心",
+		"url": "https://play.iptv365.org/天天开心/api.json",
+		"tag": "高清"
 	},
 	{
 		"id": 30,
@@ -198,8 +211,8 @@
 	},
 	{
 		"id": 37,
-		"name": "优选",
-		"url": "https://gitee.com/senno/tvbox/raw/master/api.json",
+		"name": "软件小哥哥",
+		"url": "http://47.96.82.41:5188/svip/svip.json",
 		"tag": "线路"
 	},
 	{
@@ -474,8 +487,8 @@
 	},
 	{
 		"id": 83,
-		"name": "玩偶",
-		"url": "https://gitee.com/blssss/jk/raw/api/bls.json",
+		"name": "聚玩盒4K",
+		"url": "http://xhztv.top/4k.json",
 		"tag": "线路"
 	},
 	{
@@ -563,38 +576,15 @@
 		"url": "http://xclasvgas.sylu.net:8080/smt.php",
 		"tag": "高清"
 	},
+
 	{
 		"id": 98,
-		"name": "聚玩盒4K",
-		"url": "http://xhztv.top/4k.json",
-		"tag": "线路"
-	},
-	{
-		"id": 99,
-		"name": "天天开心",
-		"url": "https://play.iptv365.org/天天开心/api.json",
-		"tag": "高清"
-	},
-	{
-		"id": 5,
-		"name": "测试，无资源",
-		"url": "https://play.test.org/test.json",
-		"tag": "线路"
-	},
-	{
-		"id": 8,
-		"name": "小虎斑",
-		"url": "http://hb.小虎斑.site:25252/仅供测试",
-		"tag": "线路"
-	},
-	{
-		"id": 17,
 		"name": "网络收集2",
 		"url": "https://2938.kstore.space/json/ziyong.json",
 		"tag": "线路"
 	},
 	{
-		"id": 100,
+		"id": 99,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
 		"tag": "线路"
