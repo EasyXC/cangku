@@ -96,6 +96,12 @@
 		"tag": "线路"
 	},
 	{
+		"id": 17,
+		"name": "测试，无资源",
+		"url": "https://play.test.org/test.json",
+		"tag": "线路"
+	},
+	{
 		"id": 18,
 		"name": "拾光",
 		"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
