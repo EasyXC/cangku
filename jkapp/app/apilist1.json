@@ -582,15 +582,27 @@
 		"url": "http://xclasvgas.sylu.net:8080/smt.php",
 		"tag": "高清"
 	},
-
 	{
 		"id": 98,
-		"name": "网络收集2",
-		"url": "https://2938.kstore.space/json/ziyong.json",
+		"name": "潇洒",
+		"url": "https://9877.kstore.space/ONE/one.json",
 		"tag": "线路"
 	},
 	{
 		"id": 99,
+		"name": "天神IY",
+		"url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png",
+		"tag": "线路"
+	},
+	{
+		"id": 100,
+		"name": "网络收集2",
+		"url": "https://2938.kstore.space/json/ziyong.json",
+		"tag": "线路"
+	},
+	
+	{
+		"id": 101,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
 		"tag": "线路"
