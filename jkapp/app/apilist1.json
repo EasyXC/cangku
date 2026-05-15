@@ -600,7 +600,12 @@
 		"url": "https://2938.kstore.space/json/ziyong.json",
 		"tag": "线路"
 	},
-	
+	{
+		"id": 102,
+		"name": "XPB",
+		"url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
+		"tag": "线路"
+	},
 	{
 		"id": 101,
 		"name": "老猫迷",
