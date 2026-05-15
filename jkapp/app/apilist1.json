@@ -601,6 +601,18 @@
 		"tag": "线路"
 	},
 	{
+		"id": 103,
+		"name": "家庭影院",
+		"url": "https://13868.kstore.space/vip.json",
+		"tag": "线路"
+	},
+	{
+		"id": 104,
+		"name": "小白(尘墨)",
+		"url": "https://api.52xiaobai.cn/api/config.php?token=d94b980a46d594ca5fa00a87ce519c8a",
+		"tag": "线路"
+	},
+	{
 		"id": 101,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
