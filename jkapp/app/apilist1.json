@@ -54,21 +54,15 @@
 		"tag": "线路"
 	},
 	{
-		"id": 10,
-		"name": "巧技",
-		"url": "http://cdn.qiaoji8.com/tvbox.json",
-		"tag": "稳定"
-	},
-	{
 		"id": 11,
 		"name": "摸鱼儿",
-		"url": "http://我不是.摸鱼儿.com",
+		"url": "http://我不是.摸鱼儿.top",
 		"tag": "稳定"
 	},
 	{
 		"id": 12,
 		"name": "肥猫",
-		"url": "http://肥猫.com",
+		"url": "http://肥猫.net",
 		"tag": "稳定"
 	},
 	{
