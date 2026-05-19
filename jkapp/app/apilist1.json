@@ -54,15 +54,21 @@
 		"tag": "线路"
 	},
 	{
+		"id": 10,
+		"name": "巧技",
+		"url": "http://cdn.qiaoji8.com/tvbox.json",
+		"tag": "稳定"
+	},
+	{
 		"id": 11,
 		"name": "摸鱼儿",
-		"url": "http://我不是.摸鱼儿.top",
+		"url": "http://我不是.摸鱼儿.com",
 		"tag": "稳定"
 	},
 	{
 		"id": 12,
 		"name": "肥猫",
-		"url": "http://肥猫.net",
+		"url": "http://肥猫.com",
 		"tag": "稳定"
 	},
 	{
@@ -595,25 +601,19 @@
 		"tag": "线路"
 	},
 	{
+		"id": 101,
+		"name": "干货老苏",
+		"url": "https://www.ls660.com/TV/TV.json",
+		"tag": "线路"
+	},
+	{
 		"id": 102,
-		"name": "XPB",
-		"url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
+		"name": "重兴",
+		"url": "https://pan.szfx.top/down.php/daee0d2b5ddbe2de5b2639fe1273b247.json",
 		"tag": "线路"
 	},
 	{
 		"id": 103,
-		"name": "家庭影院",
-		"url": "https://13868.kstore.space/vip.json",
-		"tag": "线路"
-	},
-	{
-		"id": 104,
-		"name": "小白(尘墨)",
-		"url": "https://api.52xiaobai.cn/api/config.php?token=d94b980a46d594ca5fa00a87ce519c8a",
-		"tag": "线路"
-	},
-	{
-		"id": 101,
 		"name": "老猫迷",
 		"url": "https://d.kstore.dev/download/12020/t4.json",
 		"tag": "线路"
