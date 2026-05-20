@@ -68,12 +68,6 @@
    "tag": "线路"
   },
   {
-   "id": 91,
-   "name": "多源版 | TV",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
-   "tag": "高清"
-  },
-  {
    "id": 12,
    "name": "one",
    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
@@ -543,9 +537,16 @@
   },
   {
    "id": 90,
-   "name": "老猫迷",
-   "url": "https://d.kstore.dev/download/12020/t4.json",
+   "name": "胖虎",
+   "url": "https://11465.kstore.space/%E8%87%AA%E8%90%A5/TVBoxOSC/tvbox/%E8%83%96%E8%99%8E.json",
    "tag": "线路"
+  },
+  {
+   "id": 91,
+   "name": "多源版 | TV",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+   "tag": "高清"
   }
+
  ]
 }
