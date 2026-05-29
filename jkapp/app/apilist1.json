@@ -545,7 +545,8 @@
 			"name": "多源版 | TV",
 			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
 			"tag": "高清"
-		}, {
+		},
+		{
 			"id": 92,
 			"name": "胖虎",
 			"url": "https://11465.kstore.space/%E8%87%AA%E8%90%A5/TVBoxOSC/tvbox/%E8%83%96%E8%99%8E.json",
