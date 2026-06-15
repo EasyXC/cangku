@@ -99,10 +99,10 @@
         },
         {
             "id": 17,
-            "name": "影视仓接口",
-            "url": "http://影视仓接口.top",
+            "name": "嗷呜",
+            "url": "http://itv666.cc/aowu/config.webp",
             "tag": "线路"
-        },
+        },      
         {
             "id": 18,
             "name": "TYY",
@@ -567,6 +567,18 @@
         },
         {
             "id": 95,
+            "name": "影视仓接口",
+            "url": "http://影视仓接口.top",
+            "tag": "线路"
+        },
+        {
+            "id": 96,
+            "name": "luotao",
+            "url": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/flapi.json",
+            "tag": "线路"
+        }, 
+        {
+            "id": 97,
             "name": "短剧频道",
             "url": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
             "tag": "线路"
