@@ -1,15 +1,14 @@
 {
-  "versionName": "1.0.2",
-  "versionCode": 3,
-  "isForceUpdate": false,
+  "versionName": "1.1.0",
+  "versionCode": 10,
+  "isForceUpdate": true,
   "updateContent": [
-    "新增自动检测更新",
-	"更换更稳定的源服务器",
-	"优化全屏沉浸布局",
-	"优化导航栏布局",
-	"优化设置页布局",
-    "优化代码及bugfix"
+    "1. 修复网络兼容性",
+    "适配电信随身WiFi等特殊网络环境",
+    "修复SSL连接失败导致的连接问题",
+	"修复备用接口失联的问题",
+	"2. 优化接口查看的排版"
   ],
-  "downloadUrl": "https://pan.quark.cn/s/fd73121b36f8",
-  "releaseTime": "2026-04-16"
+  "downloadUrl": "https://easy321.top/jkapp/",
+  "releaseTime": "2026-07-09"
 }
