@@ -618,12 +618,6 @@
             "name": "艺星",
             "url": "https://gitee.com/frankfurt-exhibition/yixing/raw/master/yixing.json",
             "tag": "线路"
-        },
-        {
-            "id": 104,
-            "name": "分享者",
-            "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.jsonn",
-            "tag": "线路"
         }
     ]
 }
